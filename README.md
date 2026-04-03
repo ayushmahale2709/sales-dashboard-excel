@@ -8,7 +8,7 @@ This project is an interactive Sales Dashboard built using Microsoft Excel to an
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="837" height="384" alt="Image" src="https://github.com/user-attachments/assets/3ccb5485-6731-4160-93bf-f7eb27047a77" />
 
 ---
 
